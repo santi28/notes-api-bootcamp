@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_MISSING_ARGS",
+    "err": {
+      "name": "pnpm",
+      "message": "Missing the template package name.\nThe correct usage is `pnpm create <name>` with <name> substituted for a package name.",
+      "code": "ERR_PNPM_MISSING_ARGS",
+      "stack": "pnpm: Missing the template package name.\nThe correct usage is `pnpm create <name>` with <name> substituted for a package name.\n    at Object.handler [as create] (C:\\Users\\santi\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@7.1.9\\node_modules\\pnpm\\dist\\pnpm.cjs:177885:15)\n    at C:\\Users\\santi\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@7.1.9\\node_modules\\pnpm\\dist\\pnpm.cjs:182793:51\n    at async run (C:\\Users\\santi\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@7.1.9\\node_modules\\pnpm\\dist\\pnpm.cjs:182769:34)\n    at async runPnpm (C:\\Users\\santi\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@7.1.9\\node_modules\\pnpm\\dist\\pnpm.cjs:182987:5)\n    at async C:\\Users\\santi\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@7.1.9\\node_modules\\pnpm\\dist\\pnpm.cjs:182979:7"
+    }
+  }
+}
